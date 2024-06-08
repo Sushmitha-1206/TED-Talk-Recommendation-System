@@ -1,0 +1,1 @@
+This repository contains the ipynb file for the TED Talk recommendation system project. This project is a context-based recommendation system. Text preprocessing has been completed, and NMF and topic modeling techniques such as LDA and LSA have been used to generate recommendations.
